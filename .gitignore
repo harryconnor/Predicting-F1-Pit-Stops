@@ -1,0 +1,29 @@
+# Kaggle competition data
+data/*
+!data/.gitkeep
+*.zip
+
+# Model outputs and training artefacts
+outputs/
+submissions/
+*.cbm
+*.pkl
+*.joblib
+catboost_info/
+
+# Python environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
