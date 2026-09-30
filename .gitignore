@@ -1,6 +1,5 @@
 # Kaggle competition data
-data/*
-!data/.gitkeep
+data/
 *.zip
 
 # Model outputs and training artefacts
